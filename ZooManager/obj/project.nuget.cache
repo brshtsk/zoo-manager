@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xgIUJFm+CRA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kitki\\source\\repos\\ZooManager\\ZooManager\\ZooManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kitki\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\kitki\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
